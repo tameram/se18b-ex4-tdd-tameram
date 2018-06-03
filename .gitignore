@@ -15,7 +15,7 @@ npm-debug.log
 node_modules
 *DS_Store
 
-coverage
+
 
 # bundled files
 lib/bundle.js
